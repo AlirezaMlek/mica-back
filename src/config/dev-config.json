@@ -1,0 +1,16 @@
+{
+  "postgre_sql": {
+    "db": "postgres",
+    "host": "192.168.43.242",
+    "user": "postgres",
+    "pass": "password",
+    "port": 5432
+  },
+  "redis": {
+    "db": "redis",
+    "host": "192.168.43.242",
+    "post": 6379,
+    "pass": "password",
+    "user": "default"
+  }
+}
